@@ -6,6 +6,7 @@
    * [@wifi_qr_bot](https://t.me/wifi_qr_bot) - generating wifi qr-codes, [[repo](https://github.com/otter18/wifi_qr_bot)]
    * [Template](https://github.com/otter18/telegram-bot-template) for telegram bots
 - 📫 How to reach me:
-    * telegram: [@chernykh_vladimir](https://t.me/chernykh_vladimir)
-    * email: vchern185@gmail.com
+    * Telegram: [@chernykh_vladimir](https://t.me/chernykh_vladimir)
+    * Email: vchern185@gmail.com
+    * Twitter: [@Chernv5](https://twitter.com/ChernV5)
 
