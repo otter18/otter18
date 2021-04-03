@@ -12,5 +12,5 @@
 - 📫 How to reach me:
     * Telegram: [@chernykh_vladimir](https://t.me/chernykh_vladimir)
     * Email: vchern185@gmail.com
-    * Twitter: [@Chernv5](https://twitter.com/ChernV5)
+    * Twitter: [@ChernV5](https://twitter.com/ChernV5)
 
