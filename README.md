@@ -4,6 +4,7 @@
 - 📄 Some of my posts:
     * [**Логирование в телеграм, или история о том, как я сделал питон библиотеку**](https://habr.com/ru/post/548754/)
     * [**Делаем телеграм бота за 5 минут: быстрый старт с продвинутым шаблоном**](https://habr.com/ru/post/549178/)
+    * [**Прыжок до небес: запускаем телеграм бота на Python в serverless облаке**](https://habr.com/ru/post/550456/)
 - 🤖 Some of my bot projects:
     * [@tg_logger_demo_bot](https://t.me/tg_logger_demo_bot) - demo bot for [tg-logger](https://github.com/otter18/tg_logger) project, [[repo](https://github.com/otter18/tg-logger-demo-bot)]
     * [@wifi_qr_bot](https://t.me/wifi_qr_bot) - generating wifi qr-codes, [[repo](https://github.com/otter18/wifi_qr_bot)]
