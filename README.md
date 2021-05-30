@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [tg-logger](https://github.com/otter18/tg_logger) project
-- 📄 Some of my posts:
+- 📄 Some of my posts (habr - [@otter18](https://habr.com/ru/users/otter18/posts/)):
     * [**Логирование в телеграм, или история о том, как я сделал питон библиотеку**](https://habr.com/ru/post/548754/)
     * [**Делаем телеграм бота за 5 минут: быстрый старт с продвинутым шаблоном**](https://habr.com/ru/post/549178/)
     * [**Прыжок до небес: запускаем телеграм бота на Python в serverless облаке**](https://habr.com/ru/post/550456/)
@@ -11,7 +11,6 @@
     * [Template](https://github.com/otter18/telegram-bot-template) for telegram bots
     * [Emotional_compass_vk_bot](https://vk.com/emotional_compass), [[repo]](https://github.com/otter18/emotional_compass_vk_bot)
 - 📫 How to reach me:
-    * Telegram: [@chernykh_vladimir](https://t.me/chernykh_vladimir)
     * Email: vchern185@gmail.com
     * Twitter: [@ChernV5](https://twitter.com/ChernV5)
 
