@@ -13,4 +13,5 @@
 - 📫 How to reach me:
     * Email: vchern185@gmail.com
     * Twitter: [@ChernV5](https://twitter.com/ChernV5)
+    * Telegram: [@otter_18](https://t.me/otter_18)
 
