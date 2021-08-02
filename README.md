@@ -9,7 +9,7 @@
     * [@tg_logger_demo_bot](https://t.me/tg_logger_demo_bot) - demo bot for [tg-logger](https://github.com/otter18/tg_logger) project, [[repo](https://github.com/otter18/tg-logger-demo-bot)]
     * [@wifi_qr_bot](https://t.me/wifi_qr_bot) - generating wifi qr-codes, [[repo](https://github.com/otter18/wifi_qr_bot)]
     * [Template](https://github.com/otter18/telegram-bot-template) for telegram bots
-    * [Emotional_compass_vk_bot](https://vk.com/emotional_compass), [[repo]](https://github.com/otter18/emotional_compass_vk_bot)
+    * [Emotional_compass_vk_bot](https://vk.com/emotional_compass), [[repo](https://github.com/otter18/emotional_compass_vk_bot)]
 - 📫 How to reach me:
     * Email: vchern185@gmail.com
     * Twitter: [@ChernV5](https://twitter.com/ChernV5)
