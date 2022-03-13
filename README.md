@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [tg-logger](https://github.com/otter18/tg_logger) project
+<!-- - 🔭 I’m currently working on [tg-logger](https://github.com/otter18/tg_logger) project -->
 - 📄 Some of my posts (habr - [@otter18](https://habr.com/ru/users/otter18/posts/)):
     * [**Логирование в телеграм, или история о том, как я сделал питон библиотеку**](https://habr.com/ru/post/548754/)
     * [**Делаем телеграм бота за 5 минут: быстрый старт с продвинутым шаблоном**](https://habr.com/ru/post/549178/)
