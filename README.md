@@ -6,7 +6,7 @@
     * [**Делаем телеграм бота за 5 минут: быстрый старт с продвинутым шаблоном**](https://habr.com/ru/post/549178/)
     * [**Прыжок до небес: запускаем телеграм бота на Python в serverless облаке**](https://habr.com/ru/post/550456/)
 
-- Some of projects:
+- Some of my projects:
     * [tg-logger](https://pypi.org/project/tg-logger/) - Python library that bridges logging and user files to telegram bot, [[repo](https://github.com/otter18/tg_logger)]
     * [Jay](https://github.com/Fetch-Development/Jay) - Habit & agenda digest App (for IOS), [[repo](https://github.com/otter18/wifi_qr_bot)]
     * [@tg_logger_demo_bot](https://t.me/tg_logger_demo_bot) - demo bot for [tg-logger](https://github.com/otter18/tg_logger) project, [[repo](https://github.com/otter18/tg-logger-demo-bot)]
